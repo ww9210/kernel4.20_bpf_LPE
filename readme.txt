@@ -1,3 +1,4 @@
+There is a writeup for this vulnerability at https://www.anquanke.com/post/id/166819 (in Chinese).
 This is a local priviledge escalation exploit for a kernel bpf bug.
 affected version: 4.20-rc1, 4.20-rc2, 4.20-rc3, 4.20-rc4
 
